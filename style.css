@@ -1,0 +1,98 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    width: 300%;
+    /* or inline-flex */
+}
+
+
+.box {
+    padding: 4 4 4 4;
+    border: 1px solid white;
+    width: 200px;
+    height: 100px;
+    background-color: gold;
+}
+
+.group1 {
+    background-color: blue;
+}
+
+.group2 {
+    background-color: red;
+}
+
+.group3 {
+    background-color: rebeccapurple;
+}
+
+.group4 {
+    background-color: green;
+}
+
+.group5 {
+    background-color: greenyellow;
+}
+
+.group6 {
+    background-color: goldenrod;
+}
+
+.group7 {
+    background-color: blanchedalmond;
+}
+
+.group8 {
+    background-color: brown;
+}
+
+.group9 {
+    background-color: beige;
+}
+
+.group10 {
+    background-color: cadetblue;
+}
+
+.group11 {
+    background-color: cyan;
+}
+
+.group12 {
+    background-color: coral;
+}
+
+.group13 {
+    background-color: cornflowerblue;
+}
+
+.group14 {
+    background-color: chocolate;
+}
+
+.group15 {
+    background-color: lightcyan;
+}
+
+.group16 {
+    background-color: lemonchiffon;
+}
+
+.group17 {
+    background-color: darkmagenta;
+}
+
+.group18 {
+    background-color: darkorange;
+}
+
+.group19 {
+    background-color: darkgoldenrod;
+}
+
+.group20 {
+    background-color: black;
+}
